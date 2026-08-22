@@ -1,5 +1,3 @@
-# 🌙 Mizuki Chou
-
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Mizuki Chou">
@@ -7,7 +5,11 @@
 <br>
 
 <p>
-  <i>Building small worlds with code.</i>
+  <big><big><strong>🌸 Building small worlds with code.</strong></big></big>
+</p>
+
+<p>
+  <big>🐱 <i>cats · code · games · dreams</i> 🐱</big>
 </p>
 
 <br>
@@ -18,68 +20,101 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2>🌸 About Me</h2>
+<h1>🌸 About Me</h1>
 
 <p>
-  🎓 Bachelor's Student at <strong>The University of Tokyo</strong><br>
-  💻 Software & Game Systems Developer<br>
-  🐱 Cat lover
+  <big><strong>🎓 Bachelor's Student at The University of Tokyo</strong></big>
 </p>
 
 <p>
-  I enjoy turning ideas into software, game systems, and little worlds.
+  <big><strong>💻 Software &amp; Game Systems Developer</strong></big>
+  <br>
+  <big><strong>🐱 Cat Lover</strong></big>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                      LANGUAGES                             -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>💜 Languages</h2>
+<p>
+  <big>
+    I enjoy turning ideas into software,
+    game systems, and little worlds.
+  </big>
+</p>
 
 <p>
-
-<img src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-
-<img src="https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-
-<img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
+  <big>✦ <i>Creating things I want to exist.</i> ✦</big>
 </p>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    CURRENT PROJECTS                         -->
+<!--                        LANGUAGES                            -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2>🐱 Current Projects</h2>
+<h1>💜 Languages</h1>
+
+<p>
+
+<img
+src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white"
+alt="C++"
+/>
+
+<img
+src="https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white"
+alt="Java"
+/>
+
+<img
+src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white"
+alt="Python"
+/>
+
+</p>
+
+<p>
+  <big>⚙️ Building with code, one little idea at a time.</big>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                   CURRENT PROJECTS                         -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h1>🐱 Current Projects</h1>
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-<h3>🐱 Neko n' Yume</h3>
+<h2>🐱 Neko n' Yume</h2>
 
 <p>
-A custom Minecraft RPG plugin built with Paper.
+  <big><strong>A custom Minecraft RPG plugin.</strong></big>
 </p>
 
 <p>
-<code>Java</code>
-<code>Paper</code>
-<code>Gradle</code>
+  <big>
+    Bringing cats, progression, skills,
+    entities and RPG systems together.
+  </big>
+</p>
+
+<p>
+  <big>
+    <code>Java</code>
+    <code>Paper</code>
+    <code>Gradle</code>
+  </big>
 </p>
 
 <a href="https://github.com/Mizuki-Chou/Neko-n-Yume">
   <img
-    src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/♡%20View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
     alt="Neko n' Yume"
   />
 </a>
@@ -88,17 +123,25 @@ A custom Minecraft RPG plugin built with Paper.
 
 <td align="center" width="50%">
 
-<h3>🌙 Neko-time</h3>
+<h2>🌙 Neko-time</h2>
 
 <p>
-A Minecraft survival world built around
-custom systems and gameplay.
+  <big><strong>A Minecraft survival world.</strong></big>
 </p>
 
 <p>
-<code>Minecraft</code>
-<code>Paper</code>
-<code>RPG</code>
+  <big>
+    A place for custom systems,
+    RPG mechanics and little adventures.
+  </big>
+</p>
+
+<p>
+  <big>
+    <code>Minecraft</code>
+    <code>Paper</code>
+    <code>RPG</code>
+  </big>
 </p>
 
 </td>
@@ -108,45 +151,40 @@ custom systems and gameplay.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         STACK                               -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>⚙️ Tech Stack</h2>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,gradle,git,github,linux" alt="Tech Stack">
+  <big>🌸 ──────────────── 🐾 ──────────────── 🌸</big>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Minecraft%20Paper-8B5CF6?style=flat-square&logo=minecraft&logoColor=white" alt="Paper">
-  <img src="https://img.shields.io/badge/Gradle-A855F7?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Git-C084FC?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br>
+<!--                         STACK                              -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       GITHUB STATS                          -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>📊 GitHub</h2>
+<h1>⚙️ Tech Stack</h1>
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mizuki-Chou&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=8B5CF6&text_color=6B5B7A"
-    height="170"
-    alt="GitHub Statistics"
+    src="https://skillicons.dev/icons?i=cpp,java,python,gradle,git,github,linux"
+    alt="Tech Stack"
   />
+</p>
+
+<p>
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuki-Chou&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=6B5B7A"
- height="170"
- alt="Top Languages"
+src="https://img.shields.io/badge/Minecraft%20Paper-8B5CF6?style=flat-square&logo=minecraft&logoColor=white"
+alt="Paper"
+/>
+
+<img
+src="https://img.shields.io/badge/Gradle-A855F7?style=flat-square&logo=gradle&logoColor=white"
+alt="Gradle"
+/>
+
+<img
+src="https://img.shields.io/badge/Git-C084FC?style=flat-square&logo=git&logoColor=white"
+alt="Git"
 />
 
 </p>
@@ -155,64 +193,55 @@ custom systems and gameplay.
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                     GITHUB STREAK                          -->
+<!--                    WHAT I'M WORKING ON                     -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2>✨ Contribution</h2>
-
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mizuki-Chou&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=6D28D9&sideLabels=6B5B7A&dates=8B7D99"
-    alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                   CONTRIBUTION SNAKE                        -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<p>
-  <img
-    src="https://raw.githubusercontent.com/Mizuki-Chou/Mizuki-Chou/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Contribution Snake"
-  />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    WHAT I'M DOING                           -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>🌱 What I'm Working On</h2>
+<h1>🌱 What I'm Working On</h1>
 
 <table>
 <tr>
 
-<td align="center">
-  🐱<br>
-  <strong>Neko n' Yume</strong><br>
-  <sub>Minecraft RPG systems</sub>
+<td align="center" width="33%">
+
+<h2>🐱</h2>
+
+<p>
+  <big><strong>Neko n' Yume</strong></big>
+</p>
+
+<p>
+  <big>Minecraft RPG systems</big>
+</p>
+
 </td>
 
-<td align="center">
-  ⚙️<br>
-  <strong>Game Systems</strong><br>
-  <sub>Entities · Skills · Progression</sub>
+<td align="center" width="33%">
+
+<h2>⚙️</h2>
+
+<p>
+  <big><strong>Game Systems</strong></big>
+</p>
+
+<p>
+  <big>Entities · Skills · Progression</big>
+</p>
+
 </td>
 
-<td align="center">
-  💻<br>
-  <strong>Programming</strong><br>
-  <sub>C++ · Java · Python</sub>
+<td align="center" width="33%">
+
+<h2>💻</h2>
+
+<p>
+  <big><strong>Programming</strong></big>
+</p>
+
+<p>
+  <big>C++ · Java · Python</big>
+</p>
+
 </td>
 
 </tr>
@@ -220,41 +249,116 @@ custom systems and gameplay.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                       PROJECT                              -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>🌸 Featured Project</h2>
-
 <p>
-  <a href="https://github.com/Mizuki-Chou/Neko-n-Yume">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Mizuki-Chou&repo=Neko-n-Yume&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=6B5B7A"
-      alt="Neko n' Yume"
-    />
-  </a>
+  <big>
+    ✦ Learning &nbsp;·&nbsp; Building &nbsp;·&nbsp; Experimenting ✦
+  </big>
 </p>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                         FOOTER                              -->
+<!--                    FEATURED PROJECT                        -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h1>🌸 Featured Project</h1>
+
+<table>
+<tr>
+<td align="center">
+
+<h2>🐱 Neko n' Yume</h2>
+
+<p>
+  <big>
+    <strong>A custom Minecraft RPG plugin built with Paper.</strong>
+  </big>
+</p>
+
+<p>
+  <big>
+    Cats · RPG · Skills · Entities · Progression
+  </big>
+</p>
+
+<p>
+
+<img
+src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"
+alt="Java"
+/>
+
+<img
+src="https://img.shields.io/badge/Paper-A855F7?style=for-the-badge&logo=minecraft&logoColor=white"
+alt="Paper"
+/>
+
+<img
+src="https://img.shields.io/badge/Gradle-C084FC?style=for-the-badge&logo=gradle&logoColor=white"
+alt="Gradle"
+/>
+
+</p>
+
+<a href="https://github.com/Mizuki-Chou/Neko-n-Yume">
+  <img
+    src="https://img.shields.io/badge/♡%20Explore%20Neko%20n'%20Yume-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Neko n' Yume"
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                       PHILOSOPHY                           -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h1>🌙 Philosophy</h1>
+
+<p>
+  <big>
+    <i>
+      "Build the things you wish existed."
+    </i>
+  </big>
+</p>
+
+<p>
+  <big>
+    ✦ Curiosity &nbsp;·&nbsp; Creativity &nbsp;·&nbsp; Engineering ✦
+  </big>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                          FOOTER                            -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p>
-  🌙 <i>Building small worlds with code.</i>
+  <big>🌙 ✦ 🐱 ✦ 🌸 ✦ 💜 ✦ 🌸 ✦ 🐱 ✦ 🌙</big>
 </p>
 
 <p>
-  🐱 ✦ 🌸 ✦ ☾ ✦ 🌸 ✦ 🐱
+  <big><big><strong>Building small worlds with code.</strong></big></big>
 </p>
 
 <p>
-  <sub>「夢を見る猫たち。」</sub>
+  <big><i>「夢を見る猫たち。」</i></big>
+</p>
+
+<p>
+  <small>Made with code, curiosity, and a little bit of neko magic.</small>
 </p>
 
 <br>
