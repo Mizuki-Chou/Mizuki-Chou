@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <defs><linearGradient id="txt" x1="0" x2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#EC4899"/></linearGradient></defs>
+  <text x="450" y="78" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-style="italic" font-weight="700" fill="url(#txt)">「猫さんも、夢を見るのかにゃ？」</text>
+  <text x="450" y="116" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="3" fill="#A78BFA">NEKO · YUME · DREAMS</text>
+</svg>
